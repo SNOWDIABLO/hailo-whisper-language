@@ -68,8 +68,14 @@ language, including for the small HEF's known "ignores language" bug.
   and are unit-testable without hailo-apps installed (see `test_basic.py`).
 - `example_sidecar.py` is a scaffold: adapt the import paths to your `hailo-apps` version.
 
-## Credits
+## Author
+
+Made by **[SnowDiablo](https://github.com/SNOWDIABLO)**, a solo dev. Extracted from a
+self-hosted voice assistant running on a Raspberry Pi 5 with a Hailo-8L.
+
+- GitHub: [@SNOWDIABLO](https://github.com/SNOWDIABLO)
+- Twitch: [twitch.tv/snowdiablo](https://twitch.tv/snowdiablo)
 
 Built on top of [hailo-ai/hailo-apps](https://github.com/hailo-ai/hailo-apps) and
-OpenAI Whisper. Extracted from a home voice assistant running on a Raspberry Pi 5
-with a Hailo-8L. Licensed MIT, see [LICENSE](LICENSE).
+OpenAI Whisper. Licensed MIT (see [LICENSE](LICENSE)), so you are free to use it,
+just keep the copyright line.
